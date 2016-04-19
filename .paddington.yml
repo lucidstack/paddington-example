@@ -1,0 +1,6 @@
+device: Launchpad Mini
+applications:
+- mpc
+- iTerm
+- Chrome
+- iTunes
